@@ -96,14 +96,14 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
-	      <name>admin</name>
+	      <id>Rishi-snapshots</id>
+	      <name>Rishi Snapshots Repo</name>
 	      <url>http://54.88.123.212:8081/repository/Rishi-snapshots/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>admin</name>
+	      <id>Rishi-snapshots</id>
+	      <name>Rishi Snapshots Repo</name>
 	      <url>http://54.88.123.212:8081/repository/Rishi-snapshots/</url>
 	    </snapshotRepository>
 	    
