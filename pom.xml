@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Rishi snapshots</name>
+	      <name>admin</name>
 	      <url>http://54.88.123.212:8081/repository/Rishi-snapshots/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Rishi snapshots </name>
+	      <name>admin</name>
 	      <url>http://54.88.123.212:8081/repository/Rishi-snapshots/</url>
 	    </snapshotRepository>
 	    
